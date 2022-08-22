@@ -269,7 +269,10 @@ header{
         z-index:99999;
         transition:0.5s;
     }
-    
+    .d-nav-add{
+        position:fixed;
+        top:0;
+    }
     .d-nav>div{
         width:100%;
         height: 100%;
